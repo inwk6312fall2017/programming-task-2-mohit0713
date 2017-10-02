@@ -1,7 +1,7 @@
 import csv
 x = open("Crime.csv", 'r') # opens the file read-only
 
-crime_type, no_of_times = [], [] # creating 2 list
+crime_type, no_of_times = [], [] # creating 2 lis
 
 a = "ASSAULT"
 
